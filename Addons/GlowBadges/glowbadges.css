@@ -1,0 +1,68 @@
+#app-mount .members-1998pB .nameTag-m8r81H {
+    line-height: 22px
+}
+
+#app-mount .BE-badge-EarlySupporter,
+#app-mount .profileBadgeEarlySupporter-PQB_0a,
+#app-mount .da-profileBadgeEarlySupporter {
+    filter: drop-shadow(0 0 var(--badgeGlow) var(--early))
+}
+
+#app-mount .BE-badge-Nitro,
+#app-mount .profileBadgePremium-3kZ9Qj,
+#app-mount .da-profileBadgePremium {
+    filter: drop-shadow(0 0 var(--badgeGlow) var(--nitro))
+}
+
+#app-mount .BE-badge-HypeSquad,
+#app-mount .profileBadgeHypesquad-1YIe7Z, 
+#app-mount .da-profileBadgeHypesquad {
+    filter: drop-shadow(0 0 var(--badgeGlow) var(--hype))
+}
+
+#app-mount .BE-badge-HypeSquadBravery,
+#app-mount .profileBadgeHypeSquadOnlineHouse1-xN6tES,
+#app-mount .profileBadgeHypeSquadOnlineHouse3KOH-s5aYpz, 
+#app-mount .da-profileBadgeHypeSquadOnlineHouse3KOH,
+#app-mount .da-profileBadgeHypeSquadOnlineHouse1 {
+    filter: drop-shadow(0 0 var(--badgeGlow) var(--brave))
+}
+
+#app-mount .BE-badge-HypeSquadBrilliance,
+#app-mount .profileBadgeHypeSquadOnlineHouse2-3jBpXR, 
+#app-mount .da-profileBadgeHypeSquadOnlineHouse2 {
+    filter: drop-shadow(0 0 var(--badgeGlow) var(--bril))
+}
+
+#app-mount .BE-badge-HypeSquadBalance,
+#app-mount .profileBadgeHypeSquadOnlineHouse3-1YbjMX,
+#app-mount .da-profileBadgeHypeSquadOnlineHouse3,
+#app-mount .profileBadgeWrapper-rl_RO6 .wrapper-1WA4pN {
+    filter: drop-shadow(0 0 var(--badgeGlow) var(--bal))
+}
+
+#app-mount .BE-badge-Staff,
+#app-mount .profileBadgeStaff-13GO7z,
+#app-mount .da-profileBadgeStaff {
+    filter: drop-shadow(0 0 var(--badgeGlow) var(--staff))
+}
+
+#app-mount .BE-badge-BugHunter,
+#app-mount .profileBadgeBugHunter-IV0vLE,
+#app-mount .da-profileBadgeBugHunter {
+    filter: drop-shadow(0 0 var(--badgeGlow) var(--bughntr))
+}
+
+#app-mount .BE-badge-Partner,
+#app-mount .profileBadgePartner-SjK6L2,
+#app-mount .da-profileBadgePartner {
+    filter: drop-shadow(0 0 var(--badgeGlow) var(--partner))
+}
+
+#app-mount .bd-profileBadgeDeveloper {
+	filter: drop-shadow(0 0 var(--badgeGlow) var(--bddev))
+}
+
+#app-mount .bd-profileBadgeContributor {
+	filter: drop-shadow(0 0 var(--badgeGlow) var(--bdcontrib))
+}

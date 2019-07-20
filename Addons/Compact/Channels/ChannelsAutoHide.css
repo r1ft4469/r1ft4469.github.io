@@ -1,0 +1,14 @@
+#app-mount .channels-Ie2l6A:hover,
+#app-mount .wrapper-1Rf91z:hover+div .channels-Ie2l6A {
+    left: var(--channel2);
+    z-index: 1000;
+    transition: all var(--channelSpeed2) cubic-bezier(.4, 0, 1, 1);
+}
+
+#app-mount .channels-Ie2l6A {
+    height: var(--channelHeight2);
+    left: -235px;
+    z-index: -1;
+    position: absolute;
+    transition: all var(--channelSpeed2) cubic-bezier(.4, 0, 1, 1);
+}
