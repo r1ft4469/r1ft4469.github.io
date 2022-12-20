@@ -1,0 +1,1 @@
+["plugin://plugin.video", ["plugin //plugin.video.youtube"], [], {"google:suggestsubtypes": [[22, 30, 625]], "google:suggesttype": ["QUERY"]}]

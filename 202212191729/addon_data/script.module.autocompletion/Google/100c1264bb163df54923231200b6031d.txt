@@ -1,0 +1,1 @@
+["plugin://plugin.video.fen/?mode=get_search_term", ["plugin //plugin.video.fen/ mode=get_search_terms", "plugin //plugin.video.fen/ mode=get_search_terma", "plugin //plugin.video.fen/ mode=get_search_termat", "plugin //plugin.video.fen/ mode=get_search_termin"], [], {"google:suggestsubtypes": [[160], [160], [160], [160]], "google:suggesttype": ["TAIL", "TAIL", "TAIL", "TAIL"]}]
